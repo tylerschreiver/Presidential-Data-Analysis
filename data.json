@@ -3,464 +3,688 @@
     "state": "Nevada",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Dem."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Prog."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Rep."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, false, false, true, false, false, false, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, false, true, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 28,
-    "winLength": 16,
-    "endWinIndex": 46
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1900",
+    "maxWinLength": 16,
+    "endWinIndex": 46,
+    "winStreakStartingYear": "1956",
+    "winStreakEndingYear": "1972"
   }, {
     "state": "New Mexico",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", ""], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, false, true, true, true, false, true, false],
-    "lossLength": 1,
+    "maxLossLength": 1,
     "endLossIndex": 47,
-    "winLength": 16,
-    "endWinIndex": 46
+    "lossStreakStartingYear": "1976",
+    "lossStreakEndingYear": "1976",
+    "maxWinLength": 16,
+    "endWinIndex": 46,
+    "winStreakStartingYear": "1956",
+    "winStreakEndingYear": "1972"
   }, {
     "state": "Idaho",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", "Prog."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 28,
-    "winLength": 14,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1900",
+    "maxWinLength": 14,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "Montana",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", "Rep."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, true, false, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 28,
-    "winLength": 14,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1900",
+    "maxWinLength": 14,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "Illinois",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, true, true, true, false, true, false, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 54,
-    "winLength": 14,
-    "endWinIndex": 46
+    "lossStreakStartingYear": "2000",
+    "lossStreakEndingYear": "2004",
+    "maxWinLength": 14,
+    "endWinIndex": 46,
+    "winStreakStartingYear": "1956",
+    "winStreakEndingYear": "1972"
   }, {
     "state": "Ohio",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Rep."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, true, true, true, true, true, false, true, true, false, true, false, false, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 15,
-    "winLength": 14,
-    "endWinIndex": 57
+    "lossStreakStartingYear": "1844",
+    "lossStreakEndingYear": "1848",
+    "maxWinLength": 14,
+    "endWinIndex": 57,
+    "winStreakStartingYear": "2000",
+    "winStreakEndingYear": "2016"
   }, {
     "state": "Pennsylvania",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Prog."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Rep."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [true, true, false, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, false, true, true, true, true, false, false, true, true, true, false, true, true, true, false, true, true, true, true, false, true, true, true, true, true, true, true, false, false, true, true, true, true, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 32,
-    "winLength": 14,
-    "endWinIndex": 23
+    "lossStreakStartingYear": "1912",
+    "lossStreakEndingYear": "1916",
+    "maxWinLength": 14,
+    "endWinIndex": 23,
+    "winStreakStartingYear": "1864",
+    "winStreakEndingYear": "1880"
   }, {
     "state": "Missouri",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Dem."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, true, true, true, false, true, false, true, true, false, true, true, true, false, false, true, false, true, false, false, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, false, false, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 23,
-    "winLength": 13,
-    "endWinIndex": 41
+    "lossStreakStartingYear": "1876",
+    "lossStreakEndingYear": "1880",
+    "maxWinLength": 13,
+    "endWinIndex": 41,
+    "winStreakStartingYear": "1936",
+    "winStreakEndingYear": "1952"
   }, {
     "state": "Delaware",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "Fed."], ["1808", "Fed."], ["1812", "Fed."], ["1816", "Fed."], ["1820", "D-R"], ["1824", "D-R"], ["1828", "NR"], ["1832", "NR"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", "Dem."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, false, false, false, false, true, true, false, false, false, true, false, true, true, true, false, false, false, true, false, false, true, false, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
+    "maxLossLength": 5,
     "endLossIndex": 7,
-    "winLength": 12,
-    "endWinIndex": 52
+    "lossStreakStartingYear": "1800",
+    "lossStreakEndingYear": "1816",
+    "maxWinLength": 12,
+    "endWinIndex": 52,
+    "winStreakStartingYear": "1980",
+    "winStreakEndingYear": "1996"
   }, {
     "state": "Minnesota",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Prog."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Dem."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, true, true, false, true, false, true, true, true, true, false, false, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, false, false, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 50,
-    "winLength": 12,
-    "endWinIndex": 44
+    "lossStreakStartingYear": "1980",
+    "lossStreakEndingYear": "1988",
+    "maxWinLength": 12,
+    "endWinIndex": 44,
+    "winStreakStartingYear": "1948",
+    "winStreakEndingYear": "1964"
   }, {
     "state": "Arizona",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", ""], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Rep."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, true, true, true, true, true, true, true, true, false, false, true, true, false, true, true, true, false, true, true, true, false, false, true, true, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 44,
-    "winLength": 12,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1960",
+    "lossStreakEndingYear": "1964",
+    "maxWinLength": 12,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "Tennessee",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Whig"], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Dem."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, false, true, true, true, true, true, true, false, true, true, false, true, false, true, false, true, true, true, true, true, false, false, true, false, true, false, false, false, false, true, true, true, false, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, false, false, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 11,
-    "endWinIndex": 54
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 11,
+    "endWinIndex": 54,
+    "winStreakStartingYear": "1988",
+    "winStreakEndingYear": "2004"
   }, {
     "state": "Kentucky",
     "votingRecord": [["1788–89", ""], ["1792", "Ind."], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "Dem."], ["1832", "NR"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Whig"], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Dem."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, true, false, true, true, true, true, true, true, false, true, false, false, true, false, true, false, true, true, false, false, true, false, false, true, false, true, true, false, false, false, true, true, false, true, true, true, true, true, true, true, false, true, false, true, true, true, true, true, true, true, true, true, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 30,
-    "winLength": 11,
-    "endWinIndex": 54
+    "lossStreakStartingYear": "1900",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 11,
+    "endWinIndex": 54,
+    "winStreakStartingYear": "1988",
+    "winStreakEndingYear": "2004"
   }, {
     "state": "North Dakota",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", "D-R"], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, true, true, true, true, true, true, true, true, true, true, false, false, false, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 40,
-    "winLength": 11,
-    "endWinIndex": 37
+    "lossStreakStartingYear": "1940",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 11,
+    "endWinIndex": 37,
+    "winStreakStartingYear": "1920",
+    "winStreakEndingYear": "1936"
   }, {
     "state": "California",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Dem."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Prog."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, true, true, true, false, false, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 24,
-    "winLength": 11,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1880",
+    "lossStreakEndingYear": "1884",
+    "maxWinLength": 11,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "Utah",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", "Dem."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Rep."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 52,
-    "winLength": 11,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1992",
+    "lossStreakEndingYear": "1996",
+    "maxWinLength": 11,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "Washington",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", "Rep."], ["1896", "Dem."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Prog."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, false, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, false, true, false, true, false, true, true, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 27,
-    "winLength": 11,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1896",
+    "maxWinLength": 11,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "Wyoming",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", "Rep."], ["1896", "Dem."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Rep."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, false, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 27,
-    "winLength": 11,
-    "endWinIndex": 38
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1896",
+    "maxWinLength": 11,
+    "endWinIndex": 38,
+    "winStreakStartingYear": "1924",
+    "winStreakEndingYear": "1940"
   }, {
     "state": "Texas",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", ""], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, true, false, null, null, true, false, false, true, false, true, false, false, false, false, true, true, false, false, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 10,
-    "endWinIndex": 44
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 10,
+    "endWinIndex": 44,
+    "winStreakStartingYear": "1948",
+    "winStreakEndingYear": "1964"
   }, {
     "state": "Virginia",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "D-R"], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Rep."], ["1864", ""], ["1868", ""], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, false, true, true, true, true, true, true, true, true, true, true, false, true, false, true, true, true, null, null, true, false, false, true, false, true, false, false, false, false, true, true, false, false, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, false, true, true, true, true, false, true, false],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 10,
-    "endWinIndex": 12
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 10,
+    "endWinIndex": 12,
+    "winStreakStartingYear": "1820",
+    "winStreakEndingYear": "1836"
   }, {
     "state": "Kansas",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Prog."], ["1896", "Dem."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, true, false, true, false, false, true, true, true, true, true, true, true, true, true, true, false, false, false, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 40,
-    "winLength": 10,
-    "endWinIndex": 37
+    "lossStreakStartingYear": "1940",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 10,
+    "endWinIndex": 37,
+    "winStreakStartingYear": "1920",
+    "winStreakEndingYear": "1936"
   }, {
     "state": "Arkansas",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, true, false, true, false, true, true, false, null, true, true, false, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, true, true, false, true, true, true, true, true, true, true, true, true, false, false, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 9,
-    "endWinIndex": 54
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 9,
+    "endWinIndex": 54,
+    "winStreakStartingYear": "1988",
+    "winStreakEndingYear": "2004"
   }, {
     "state": "Georgia",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "D-R"], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Dem."], ["1964", "Rep."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [true, true, false, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, false, null, false, true, false, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, true, false, false, true, true, false, true, true, true, false, true, true, false, false, true, true, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 9,
-    "endWinIndex": 11
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 9,
+    "endWinIndex": 11,
+    "winStreakStartingYear": "1816",
+    "winStreakEndingYear": "1832"
   }, {
     "state": "Louisiana",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", "Rep."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Rep."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, true, true, true, false, true, true, true, true, true, true, true, true, false, true, false, true, true, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, true, true, false, false, true, true, true, true, true, true, true, true, true, false, false, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 9,
-    "endWinIndex": 54
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 9,
+    "endWinIndex": 54,
+    "winStreakStartingYear": "1988",
+    "winStreakEndingYear": "2004"
   }, {
     "state": "Maryland",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "NR"], ["1832", "NR"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", "Rep."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, true, true, true, true, true, true, false, false, false, false, true, false, true, true, true, false, true, false, true, false, false, true, false, true, true, true, false, false, true, true, true, true, true, true, true, true, true, false, true, true, true, true, false, true, true, false, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 12,
-    "winLength": 9,
-    "endWinIndex": 8
+    "lossStreakStartingYear": "1824",
+    "lossStreakEndingYear": "1836",
+    "maxWinLength": 9,
+    "endWinIndex": 8,
+    "winStreakStartingYear": "1804",
+    "winStreakEndingYear": "1820"
   }, {
     "state": "Massachusetts",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "D-R"], ["1808", "Fed."], ["1812", "Fed."], ["1816", "Fed."], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "NR"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Whig"], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Dem."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, true, false, false, false, true, false, false, false, false, true, false, true, false, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, false, true, true, false, true, true, true, true, true, true, true, true, true, false, false, true, true, true, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 12,
-    "winLength": 9,
-    "endWinIndex": 44
+    "lossStreakStartingYear": "1824",
+    "lossStreakEndingYear": "1836",
+    "maxWinLength": 9,
+    "endWinIndex": 44,
+    "winStreakStartingYear": "1948",
+    "winStreakEndingYear": "1964"
   }, {
     "state": "Indiana",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Rep."], ["1884", "Dem."], ["1888", "Rep."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, true, true, false, true, true, false, true, true, false, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, false, false, false, true, true, false, true, true, true, false, true, true, true, false, false, true, true, true, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 40,
-    "winLength": 9,
-    "endWinIndex": 31
+    "lossStreakStartingYear": "1940",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 9,
+    "endWinIndex": 31,
+    "winStreakStartingYear": "1896",
+    "winStreakEndingYear": "1912"
   }, {
     "state": "Rhode Island",
     "votingRecord": [["1788–89", ""], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "D-R"], ["1808", "Fed."], ["1812", "Fed."], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "NR"], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, true, true, false, true, false, false, true, true, false, false, false, true, true, false, true, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, false, true, true, false, true, true, true, true, true, true, true, true, true, false, true, true, false, true, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 11,
-    "winLength": 9,
-    "endWinIndex": 44
+    "lossStreakStartingYear": "1824",
+    "lossStreakEndingYear": "1832",
+    "maxWinLength": 9,
+    "endWinIndex": 44,
+    "winStreakStartingYear": "1948",
+    "winStreakEndingYear": "1964"
   }, {
     "state": "New Hampshire",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "D-R"], ["1808", "Fed."], ["1812", "Fed."], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, true, false, false, true, true, false, false, true, true, false, true, false, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, false, true, true, true, false, true, true, true, true, true, true, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 6,
-    "winLength": 9,
-    "endWinIndex": 35
+    "lossStreakStartingYear": "1808",
+    "lossStreakEndingYear": "1812",
+    "maxWinLength": 9,
+    "endWinIndex": 35,
+    "winStreakStartingYear": "1912",
+    "winStreakEndingYear": "1928"
   }, {
     "state": "New York",
     "votingRecord": [["1788–89", ""], ["1792", "Ind."], ["1796", "Fed."], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "Fed."], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Rep."], ["1884", "Dem."], ["1888", "Rep."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, true, true, true, true, true, false, true, true, false, true, true, true, true, true, true, true, false, true, true, false, true, false, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, true, true, false, true, true, true, true, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 54,
-    "winLength": 9,
-    "endWinIndex": 31
+    "lossStreakStartingYear": "2000",
+    "lossStreakEndingYear": "2004",
+    "maxWinLength": 9,
+    "endWinIndex": 31,
+    "winStreakStartingYear": "1896",
+    "winStreakEndingYear": "1912"
   }, {
     "state": "Florida",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, false, null, true, true, true, false, true, false, true, false, false, false, false, true, true, false, false, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, true, true, true, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 8,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 8,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "North Carolina",
     "votingRecord": [["1788–89", ""], ["1792", "Ind."], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, true, false, true, true, true, true, true, true, false, true, true, true, true, false, true, true, true, false, null, true, true, false, false, true, false, true, false, false, false, false, true, true, false, false, true, true, true, true, true, true, false, false, true, true, true, true, true, true, true, true, false, false, true, true, true, false, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 8,
-    "endWinIndex": 50
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 8,
+    "endWinIndex": 50,
+    "winStreakStartingYear": "1972",
+    "winStreakEndingYear": "1988"
   }, {
     "state": "Oklahoma",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Dem."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, true, true, false, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 52,
-    "winLength": 8,
-    "endWinIndex": 42
+    "lossStreakStartingYear": "1992",
+    "lossStreakEndingYear": "1996",
+    "maxWinLength": 8,
+    "endWinIndex": 42,
+    "winStreakStartingYear": "1940",
+    "winStreakEndingYear": "1956"
   }, {
     "state": "West Virginia",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, false, false, true, false, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, false, true, true, true, false, true, true, false, true, false, true, true, true, true, false, false, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 23,
-    "winLength": 8,
-    "endWinIndex": 40
+    "lossStreakStartingYear": "1876",
+    "lossStreakEndingYear": "1880",
+    "maxWinLength": 8,
+    "endWinIndex": 40,
+    "winStreakStartingYear": "1932",
+    "winStreakEndingYear": "1948"
   }, {
     "state": "Colorado",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Prog."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Rep."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, false, true, false, false, false, true, false, true, true, true, true, true, true, true, false, false, true, true, true, false, true, true, true, false, true, true, true, true, false, true, true, true, true, false, true, false],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 28,
-    "winLength": 7,
-    "endWinIndex": 37
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1900",
+    "maxWinLength": 7,
+    "endWinIndex": 37,
+    "winStreakStartingYear": "1920",
+    "winStreakEndingYear": "1936"
   }, {
     "state": "Nebraska",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Dem."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, false, true, false, false, true, true, false, true, true, true, true, true, true, true, false, false, false, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 40,
-    "winLength": 7,
-    "endWinIndex": 37
+    "lossStreakStartingYear": "1940",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 7,
+    "endWinIndex": 37,
+    "winStreakStartingYear": "1920",
+    "winStreakEndingYear": "1936"
   }, {
     "state": "New Jersey",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "D-R"], ["1808", "D-R"], ["1812", "Fed."], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "NR"], ["1832", "Dem."], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Rep."], ["1864", "Dem."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, true, true, false, true, true, false, false, true, false, true, false, true, true, true, true, false, false, true, false, false, true, false, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, true, true, true, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 10,
-    "winLength": 7,
-    "endWinIndex": 39
+    "lossStreakStartingYear": "1824",
+    "lossStreakEndingYear": "1828",
+    "maxWinLength": 7,
+    "endWinIndex": 39,
+    "winStreakStartingYear": "1928",
+    "winStreakEndingYear": "1944"
   }, {
     "state": "Oregon",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, false, true, true, true, false, true, false, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, false, true, true, true, false, true, true, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 54,
-    "winLength": 7,
-    "endWinIndex": 39
+    "lossStreakStartingYear": "2000",
+    "lossStreakEndingYear": "2004",
+    "maxWinLength": 7,
+    "endWinIndex": 39,
+    "winStreakStartingYear": "1928",
+    "winStreakEndingYear": "1944"
   }, {
     "state": "Wisconsin",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Prog."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Rep."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Rep."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, false, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, false, true, true, true, true, false, true, true, true, false, true, true, true, true, true, true, false, true, true, false, false, true, true, true, true, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 54,
-    "winLength": 7,
-    "endWinIndex": 31
+    "lossStreakStartingYear": "2000",
+    "lossStreakEndingYear": "2004",
+    "maxWinLength": 7,
+    "endWinIndex": 31,
+    "winStreakStartingYear": "1896",
+    "winStreakEndingYear": "1912"
   }, {
     "state": "Connecticut",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "Fed."], ["1808", "Fed."], ["1812", "Fed."], ["1816", "Fed."], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "NR"], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Rep."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, false, false, false, false, true, false, false, false, true, true, false, true, true, false, true, true, true, true, false, true, true, false, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, true, true, true, true, false, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
+    "maxLossLength": 5,
     "endLossIndex": 7,
-    "winLength": 6,
-    "endWinIndex": 31
+    "lossStreakStartingYear": "1800",
+    "lossStreakEndingYear": "1816",
+    "maxWinLength": 6,
+    "endWinIndex": 31,
+    "winStreakStartingYear": "1896",
+    "winStreakEndingYear": "1912"
   }, {
     "state": "Maine",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Rep."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, false, true, true, true, true, false, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, false, true, true, true, false, false, false, false, false, true, true, false, true, false, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
+    "maxLossLength": 5,
     "endLossIndex": 40,
-    "winLength": 6,
-    "endWinIndex": 23
+    "lossStreakStartingYear": "1932",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 6,
+    "endWinIndex": 23,
+    "winStreakStartingYear": "1864",
+    "winStreakEndingYear": "1880"
   }, {
     "state": "Vermont",
     "votingRecord": [["1788–89", ""], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "Whig"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Whig"], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Rep."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Rep."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, true, true, false, true, true, true, true, true, false, false, false, false, true, false, true, false, false, true, true, true, true, true, true, false, true, false, true, true, true, true, false, false, true, true, true, false, false, false, false, false, true, true, false, true, true, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
+    "maxLossLength": 5,
     "endLossIndex": 40,
-    "winLength": 6,
-    "endWinIndex": 23
+    "lossStreakStartingYear": "1932",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 6,
+    "endWinIndex": 23,
+    "winStreakStartingYear": "1864",
+    "winStreakEndingYear": "1880"
   }, {
     "state": "South Carolina",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "D-R"], ["1800", "D-R"], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Whig"], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Dem."], ["1964", "Rep."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [true, true, false, true, true, true, true, true, true, false, true, true, false, false, true, false, true, true, false, null, true, true, true, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, true, false, true, true, true, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 4,
+    "maxLossLength": 4,
     "endLossIndex": 30,
-    "winLength": 6,
-    "endWinIndex": 8
+    "lossStreakStartingYear": "1896",
+    "lossStreakEndingYear": "1908",
+    "maxWinLength": 6,
+    "endWinIndex": 8,
+    "winStreakStartingYear": "1804",
+    "winStreakEndingYear": "1820"
   }, {
     "state": "Iowa",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, false, true, true, true, true, true, false, false, true, true, true, false, true, true, true, false, true, true, false, true, true, false, true, true, true, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 39,
-    "winLength": 6,
-    "endWinIndex": 23
+    "lossStreakStartingYear": "1940",
+    "lossStreakEndingYear": "1944",
+    "maxWinLength": 6,
+    "endWinIndex": 23,
+    "winStreakStartingYear": "1864",
+    "winStreakEndingYear": "1880"
   }, {
     "state": "Michigan",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Prog."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Rep."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, false, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, false, false, true, true, true, true, true, false, true, false, true, true, true, true, false, true, false, true, true, true, true, true, false, false, true, true, true, true, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 32,
-    "winLength": 6,
-    "endWinIndex": 23
+    "lossStreakStartingYear": "1912",
+    "lossStreakEndingYear": "1916",
+    "maxWinLength": 6,
+    "endWinIndex": 23,
+    "winStreakStartingYear": "1864",
+    "winStreakEndingYear": "1880"
   }, {
     "state": "Alabama",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Ind."], ["1964", "Rep."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, true, true, true, false, true, false, true, true, false, null, true, true, false, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, false, false, false, true, true, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 5,
+    "maxLossLength": 5,
     "endLossIndex": 45,
-    "winLength": 5,
-    "endWinIndex": 40
+    "lossStreakStartingYear": "1952",
+    "lossStreakEndingYear": "1968",
+    "maxWinLength": 5,
+    "endWinIndex": 40,
+    "winStreakStartingYear": "1932",
+    "winStreakEndingYear": "1948"
   }, {
     "state": "Mississippi",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", ""], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Ind."], ["1964", "Rep."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, true, true, true, true, true, false, true, true, false, null, null, true, false, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, false, false, false, true, true, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 5,
+    "maxLossLength": 5,
     "endLossIndex": 45,
-    "winLength": 5,
-    "endWinIndex": 14
+    "lossStreakStartingYear": "1952",
+    "lossStreakEndingYear": "1968",
+    "maxWinLength": 5,
+    "endWinIndex": 14,
+    "winStreakStartingYear": "1828",
+    "winStreakEndingYear": "1844"
   }, {
     "state": "South Dakota",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", "Rep."], ["1896", "Dem."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Prog."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, false, true, true, true, false, false, true, true, true, true, true, false, false, false, true, true, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 40,
-    "winLength": 5,
-    "endWinIndex": 37
+    "lossStreakStartingYear": "1940",
+    "lossStreakEndingYear": "1948",
+    "maxWinLength": 5,
+    "endWinIndex": 37,
+    "winStreakStartingYear": "1920",
+    "winStreakEndingYear": "1936"
   }, {
     "state": "Alaska",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", ""], ["1912", ""], ["1916", ""], ["1920", ""], ["1924", ""], ["1928", ""], ["1932", ""], ["1936", ""], ["1940", ""], ["1944", ""], ["1948", ""], ["1952", ""], ["1956", ""], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, false, true, true, true, false, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 52,
-    "winLength": 3,
-    "endWinIndex": 46
+    "lossStreakStartingYear": "1992",
+    "lossStreakEndingYear": "1996",
+    "maxWinLength": 3,
+    "endWinIndex": 46,
+    "winStreakStartingYear": "1956",
+    "winStreakEndingYear": "1972"
   }, {
     "state": "D.C.",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", ""], ["1912", ""], ["1916", ""], ["1920", ""], ["1924", ""], ["1928", ""], ["1932", ""], ["1936", ""], ["1940", ""], ["1944", ""], ["1948", ""], ["1952", ""], ["1956", ""], ["1960", ""], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Dem."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Dem."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, false, false, true, false, false, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 50,
-    "winLength": 2,
-    "endWinIndex": 52
+    "lossStreakStartingYear": "1980",
+    "lossStreakEndingYear": "1988",
+    "maxWinLength": 2,
+    "endWinIndex": 52,
+    "winStreakStartingYear": "1980",
+    "winStreakEndingYear": "1996"
   }, {
     "state": "Hawaii",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", ""], ["1912", ""], ["1916", ""], ["1920", ""], ["1924", ""], ["1928", ""], ["1932", ""], ["1936", ""], ["1940", ""], ["1944", ""], ["1948", ""], ["1952", ""], ["1956", ""], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Dem."], ["1984", "Rep."], ["1988", "Dem."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, false, true, true, false, true, false, true, true, false, false, true, true, false, true, false],
-    "lossLength": 2,
+    "maxLossLength": 2,
     "endLossIndex": 54,
-    "winLength": 2,
-    "endWinIndex": 44
+    "lossStreakStartingYear": "2000",
+    "lossStreakEndingYear": "2004",
+    "maxWinLength": 2,
+    "endWinIndex": 44,
+    "winStreakStartingYear": "1948",
+    "winStreakEndingYear": "1964"
   }],
   "maxLs": [{
     "state": "Alabama",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Dem."], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Ind."], ["1964", "Rep."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, true, true, true, false, true, false, true, true, false, null, true, true, false, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, false, false, false, true, true, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 5,
-    "endLossIndex": 45
+    "maxLossLength": 5,
+    "endLossIndex": 45,
+    "lossStreakStartingYear": "1952",
+    "lossStreakEndingYear": "1968"
   }, {
     "state": "Connecticut",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "Fed."], ["1808", "Fed."], ["1812", "Fed."], ["1816", "Fed."], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "NR"], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Rep."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, false, false, false, false, true, false, false, false, true, true, false, true, true, false, true, true, true, true, false, true, true, false, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, true, true, true, true, false, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
-    "endLossIndex": 7
+    "maxLossLength": 5,
+    "endLossIndex": 7,
+    "lossStreakStartingYear": "1800",
+    "lossStreakEndingYear": "1816"
   }, {
     "state": "Delaware",
     "votingRecord": [["1788–89", "Ind."], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "Fed."], ["1808", "Fed."], ["1812", "Fed."], ["1816", "Fed."], ["1820", "D-R"], ["1824", "D-R"], ["1828", "NR"], ["1832", "NR"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", "Dem."], ["1868", "Dem."], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [true, true, true, false, false, false, false, false, true, true, false, false, false, true, false, true, true, true, false, false, false, true, false, false, true, false, true, true, true, true, true, true, false, true, true, true, false, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
-    "endLossIndex": 7
+    "maxLossLength": 5,
+    "endLossIndex": 7,
+    "lossStreakStartingYear": "1800",
+    "lossStreakEndingYear": "1816"
   }, {
     "state": "Maine",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Dem."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Rep."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, false, true, true, true, true, false, true, false, true, true, true, true, true, true, false, true, false, true, true, true, true, true, false, true, true, true, false, false, false, false, false, true, true, false, true, false, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
-    "endLossIndex": 40
+    "maxLossLength": 5,
+    "endLossIndex": 40,
+    "lossStreakStartingYear": "1932",
+    "lossStreakEndingYear": "1948"
   }, {
     "state": "Mississippi",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", "D-R"], ["1824", "Dem."], ["1828", "Dem."], ["1832", "Dem."], ["1836", "Dem."], ["1840", "Whig"], ["1844", "Dem."], ["1848", "Dem."], ["1852", "Dem."], ["1856", "Dem."], ["1860", "Dem."], ["1864", ""], ["1868", ""], ["1872", "Rep."], ["1876", "Dem."], ["1880", "Dem."], ["1884", "Dem."], ["1888", "Dem."], ["1892", "Dem."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Dem."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Dem."], ["1924", "Dem."], ["1928", "Dem."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Dem."], ["1956", "Dem."], ["1960", "Ind."], ["1964", "Rep."], ["1968", "Dem."], ["1972", "Rep."], ["1976", "Dem."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Rep."], ["1996", "Rep."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Rep."], ["2012", "Rep."], ["2016", "Rep."], ["2020", "Rep."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, true, false, true, true, true, true, true, false, true, true, false, null, null, true, false, false, true, false, true, false, false, false, false, true, true, false, false, false, true, true, true, true, true, false, false, false, false, false, true, true, true, true, true, false, false, true, true, false, false, true, false, true],
-    "lossLength": 5,
-    "endLossIndex": 45
+    "maxLossLength": 5,
+    "endLossIndex": 45,
+    "lossStreakStartingYear": "1952",
+    "lossStreakEndingYear": "1968"
   }, {
     "state": "Vermont",
     "votingRecord": [["1788–89", ""], ["1792", "Ind."], ["1796", "Fed."], ["1800", "Fed."], ["1804", "D-R"], ["1808", "D-R"], ["1812", "D-R"], ["1816", "D-R"], ["1820", "D-R"], ["1824", "NR"], ["1828", "NR"], ["1832", "Whig"], ["1836", "Whig"], ["1840", "Whig"], ["1844", "Whig"], ["1848", "Whig"], ["1852", "Whig"], ["1856", "Rep."], ["1860", "Rep."], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Rep."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Rep."], ["1896", "Rep."], ["1900", "Rep."], ["1904", "Rep."], ["1908", "Rep."], ["1912", "Rep."], ["1916", "Rep."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Rep."], ["1936", "Rep."], ["1940", "Rep."], ["1944", "Rep."], ["1948", "Rep."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Rep."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Dem."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, true, true, false, true, true, true, true, true, false, false, false, false, true, false, true, false, false, true, true, true, true, true, true, false, true, false, true, true, true, true, false, false, true, true, true, false, false, false, false, false, true, true, false, true, true, true, false, true, true, true, true, true, false, false, true, true, false, true, false],
-    "lossLength": 5,
-    "endLossIndex": 40
+    "maxLossLength": 5,
+    "endLossIndex": 40,
+    "lossStreakStartingYear": "1932",
+    "lossStreakEndingYear": "1948"
   }],
   "maxWs": [{
     "state": "Nevada",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", "Rep."], ["1868", "Rep."], ["1872", "Rep."], ["1876", "Rep."], ["1880", "Dem."], ["1884", "Rep."], ["1888", "Rep."], ["1892", "Prog."], ["1896", "Dem."], ["1900", "Dem."], ["1904", "Rep."], ["1908", "Dem."], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Rep."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Rep."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, false, false, true, false, false, false, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, false, true, true],
-    "lossLength": 3,
+    "maxLossLength": 3,
     "endLossIndex": 28,
-    "winLength": 16,
-    "endWinIndex": 46
+    "lossStreakStartingYear": "1892",
+    "lossStreakEndingYear": "1900",
+    "maxWinLength": 16,
+    "endWinIndex": 46,
+    "winStreakStartingYear": "1956",
+    "winStreakEndingYear": "1972"
   }, {
     "state": "New Mexico",
     "votingRecord": [["1788–89", ""], ["1792", ""], ["1796", ""], ["1800", ""], ["1804", ""], ["1808", ""], ["1812", ""], ["1816", ""], ["1820", ""], ["1824", ""], ["1828", ""], ["1832", ""], ["1836", ""], ["1840", ""], ["1844", ""], ["1848", ""], ["1852", ""], ["1856", ""], ["1860", ""], ["1864", ""], ["1868", ""], ["1872", ""], ["1876", ""], ["1880", ""], ["1884", ""], ["1888", ""], ["1892", ""], ["1896", ""], ["1900", ""], ["1904", ""], ["1908", ""], ["1912", "Dem."], ["1916", "Dem."], ["1920", "Rep."], ["1924", "Rep."], ["1928", "Rep."], ["1932", "Dem."], ["1936", "Dem."], ["1940", "Dem."], ["1944", "Dem."], ["1948", "Dem."], ["1952", "Rep."], ["1956", "Rep."], ["1960", "Dem."], ["1964", "Dem."], ["1968", "Rep."], ["1972", "Rep."], ["1976", "Rep."], ["1980", "Rep."], ["1984", "Rep."], ["1988", "Rep."], ["1992", "Dem."], ["1996", "Dem."], ["2000", "Dem."], ["2004", "Rep."], ["2008", "Dem."], ["2012", "Dem."], ["2016", "Dem."], ["2020", "Dem."], ["2024", "Dem."]],
     "votingRecordWins": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, false, true, true, true, false, true, false],
-    "lossLength": 1,
+    "maxLossLength": 1,
     "endLossIndex": 47,
-    "winLength": 16,
-    "endWinIndex": 46
+    "lossStreakStartingYear": "1976",
+    "lossStreakEndingYear": "1976",
+    "maxWinLength": 16,
+    "endWinIndex": 46,
+    "winStreakStartingYear": "1956",
+    "winStreakEndingYear": "1972"
   }],
   "years": ["1788–89", "1792", "1796", "1800", "1804", "1808", "1812", "1816", "1820", "1824", "1828", "1832", "1836", "1840", "1844", "1848", "1852", "1856", "1860", "1864", "1868", "1872", "1876", "1880", "1884", "1888", "1892", "1896", "1900", "1904", "1908", "1912", "1916", "1920", "1924", "1928", "1932", "1936", "1940", "1944", "1948", "1952", "1956", "1960", "1964", "1968", "1972", "1976", "1980", "1984", "1988", "1992", "1996", "2000", "2004", "2008", "2012", "2016", "2020", "2024"]
 }

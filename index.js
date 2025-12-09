@@ -130,8 +130,8 @@ async function readCSVFiles() {
         ...stateData,
         maxLossLength: maxLosses,
         endLossIndex: endIndex,
-        endLossStartYear: years[endIndex - maxLosses],
-        endLossEndYear: years[endIndex],
+        lossStreakStartingYear: years[endIndex - maxLosses + 1],
+        lossStreakEndingYear: years[endIndex],
       }
     }).sort((a, b) => b.maxLossLength - a.maxLossLength)
 
@@ -147,42 +147,41 @@ async function readCSVFiles() {
 
     const maxLs = stateLossStreaks.filter(data => data.maxLossLength === maxLosses)
     
-    maxLs.forEach(stateData => {
-      let votingRecord = ''
-      let winners = ''
-      for (let i = maxLosses; i > 0; i--) {
-        // console.log(years[stateData.endLossIndex - i])
-        // console.log(stateData.votingRecord[stateData.endLossIndex - i][1])
-        const index = stateData.endLossIndex - i + 1
+    // maxLs.forEach(stateData => {
+    //   let votingRecord = ''
+    //   let winners = ''
+    //   for (let i = maxLosses; i > 0; i--) {
+    //     // console.log(years[stateData.endLossIndex - i])
+    //     // console.log(stateData.votingRecord[stateData.endLossIndex - i][1])
+    //     const index = stateData.endLossIndex - i + 1
 
-        votingRecord += `${years[index]} - ${stateData.votingRecord[index][1]}  `
-        winners += `${years[index]} - ${yearAndParty[index][1]}  `
-      }
+    //     votingRecord += `${years[index]} - ${stateData.votingRecord[index][1]}  `
+    //     winners += `${years[index]} - ${yearAndParty[index][1]}  `
+    //   }
 
 
-      let length = stateData.state.length - 7
-      let isReverse = false
+    //   let length = stateData.state.length - 7
+    //   let isReverse = false
 
-      if (length < 0) {
-        isReverse = true
-        length = length * -1
-      }
+    //   if (length < 0) {
+    //     isReverse = true
+    //     length = length * -1
+    //   }
 
-      let spaces = ''
-      for (let i = 0; i < length; i++) {
-        spaces += ' '
-      }
-      console.log('\n')
+    //   let spaces = ''
+    //   for (let i = 0; i < length; i++) {
+    //     spaces += ' '
+    //   }
+    //   console.log('\n')
 
-      if (isReverse) {
-        console.log(stateData.state + spaces + " " + votingRecord)
-        console.log('Winners ' + winners)
-      } else {
-        console.log(stateData.state + " " + votingRecord)
-        console.log('Winners ' + spaces + winners)
-      }
-    })
-
+    //   if (isReverse) {
+    //     console.log(stateData.state + spaces + " " + votingRecord)
+    //     console.log('Winners ' + winners)
+    //   } else {
+    //     console.log(stateData.state + " " + votingRecord)
+    //     console.log('Winners ' + spaces + winners)
+    //   }
+    // })
 
     const stateWinLossStreaks = stateLossStreaks.map(stateData => {
       let maxWines = 0
@@ -204,18 +203,24 @@ async function readCSVFiles() {
         }
       })
 
-      return { ...stateData, winLength: maxWines, endWinIndex: endIndex }
-    }).sort((a, b) => b.winLength - a.winLength)
+      return {
+        ...stateData,
+        maxWinLength: maxWines,
+        endWinIndex: endIndex,
+        winStreakStartingYear: years[endIndex - maxLosses + 1],
+        winStreakEndingYear: years[endIndex],
+      }
+    }).sort((a, b) => b.maxWinLength - a.maxWinLength)
 
 
     let maxWins = 0
     stateWinLossStreaks.forEach(stateData => {
-      if (stateData.winLength > maxWins) {
-        maxWins = stateData.winLength
+      if (stateData.maxWinLength > maxWins) {
+        maxWins = stateData.maxWinLength
       }
     })
 
-    const maxWs = stateWinLossStreaks.filter(data => data.winLength === maxWins)
+    const maxWs = stateWinLossStreaks.filter(data => data.maxWinLength === maxWins)
     
     // maxWs.forEach(stateData => {
     //   let votingRecord = ''
