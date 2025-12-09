@@ -136,8 +136,6 @@ async function readCSVFiles() {
     }).sort((a, b) => b.maxLossLength - a.maxLossLength)
 
 
-    console.log(stateLossStreaks[0])
-
     let maxLosses = 0
     stateLossStreaks.forEach(stateData => {
       if (stateData.maxLossLength > maxLosses) {
